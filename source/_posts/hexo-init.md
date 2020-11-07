@@ -338,3 +338,41 @@ categories: 工具
 ---
 ```
 
+
+
+
+
+# 7.0 命令速记
+
+
+
+在source/_post目录下
+
+
+
+新建文章
+
+```
+hexo n
+```
+
+
+
+本地查看
+
+```
+hexo clean
+hexo g
+hexo s
+```
+
+
+
+远程部署
+
+```
+hexo clean
+hexo g
+hexo d
+```
+
